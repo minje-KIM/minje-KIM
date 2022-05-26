@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=capsule%20render&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
 
 ### :smiley: Hi there! I'm Minje KIM :smiley:
 
