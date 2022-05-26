@@ -6,6 +6,9 @@
 I'm really passionated in Visual SLAM(Simultaneous localization and mapping), Visual-Inertial Odometry, Sensor Fusion, Robot Vsion.
 For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Photogrammetry(3D Vision), C++, Deep Learning..etc) 
 
+<a href="https://www.linkedin.com/in/minje-kim-8b804916a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
+
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=minje-KIM&show_icons=true&theme=calm)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minje-KIM&layout=compact)](https://github.com/minje-KIM/github-readme-stats)
 
