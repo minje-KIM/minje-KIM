@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome!&fontSize=100&animation=fadeIn&fontAlignY=40)
 
 
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 ### :smiley: Hi there! I'm Minje KIM :smiley:
 
 I'm really passionated in Visual SLAM(Simultaneous localization and mapping), Visual-Inertial Odometry, Sensor Fusion, Robot Vsion.
 For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Photogrammetry(3D Vision), C++, Deep Learning..etc) 
 
-<a href="https://www.linkedin.com/in/minje-kim-8b804916a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-#0A66C2?style=flat-square&logo=Linkerd&logoColor=white"/></a>
+
 
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=minje-KIM&show_icons=true&theme=calm)
@@ -16,3 +17,5 @@ For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Pho
 
 
 
+	
+ 
