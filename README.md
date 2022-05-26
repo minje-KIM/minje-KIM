@@ -6,6 +6,7 @@ For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Pho
 
 ## :mailbox_with_no_mail: Contact
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Notion&link=https://slamwithme.oopy.io/)](https://slamwithme.oopy.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/minje-kim-8b804916a/)](https://https://www.linkedin.com/in/minje-kim-8b804916a/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001376853942)](https://www.facebook.com/profile.php?id=100001376853942)
+  * E-MAIL: <minje617@naver.com>
 
 
 ## :books: Tech Stack
