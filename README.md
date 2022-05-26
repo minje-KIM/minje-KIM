@@ -1,7 +1,8 @@
 ### :smiley: Hi there! I'm Minje KIM :smiley:
 
-I'm really passionated in Visual SLAM(Simultaneous localization and mapping), Sensor Fusion, Robot Vsion.
+I'm really passionated in Visual SLAM(Simultaneous localization and mapping), Visual-Inertial Odometry, Sensor Fusion, Robot Vsion.
 For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Photogrammetry(3D Vision), C++, Deep Learning..etc) 
+
 
 
 
@@ -9,16 +10,4 @@ For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Pho
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminje-KIM&count_bg=%2379C83D&title_bg=%23555555&icon=googlehangouts.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-**minje-KIM/minje-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
