@@ -9,7 +9,7 @@ For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Pho
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minje-KIM&layout=compact)](https://github.com/minje-KIM/github-readme-stats)
 
 	
  
