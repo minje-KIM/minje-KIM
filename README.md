@@ -2,6 +2,10 @@
 
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Notion&link=https://slamwithme.oopy.io/)](https://slamwithme.oopy.io/)
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/minje-kim-8b804916a/)](https://https://www.linkedin.com/in/minje-kim-8b804916a/)
+  
+  
 ### :smiley: Hi there! I'm Minje KIM :smiley:
 
 I'm really passionated in Visual SLAM(Simultaneous localization and mapping), Visual-Inertial Odometry, Sensor Fusion, Robot Vsion.
