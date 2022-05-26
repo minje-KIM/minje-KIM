@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome!&fontSize=100&animation=fadeIn&fontAlignY=40)
-## :smiley: Hi there! I'm Minje KIM :smiley:
+## :smiley: Hello! I'm Minje KIM! :smiley:
 
-I'm really passionated in Visual SLAM(Simultaneous localization and mapping), Visual-Inertial Odometry, Sensor Fusion, Robot Vsion.
+I'm really passionated in **Visual SLAM(Simultaneous localization and mapping)**, **Visual-Inertial Odometry**, Sensor Fusion, Robot Vsion.
 For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Photogrammetry(3D Vision), C++, Deep Learning..etc) 
 
 ## :mailbox_with_no_mail: Contact
