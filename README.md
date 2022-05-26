@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome!&fontSize=100&animation=fadeIn&fontAlignY=40)
 
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://slamwithme.oopy.io/)](https://slamwithme.oopy.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Notion&link=https://slamwithme.oopy.io/)](https://slamwithme.oopy.io/)
 ### :smiley: Hi there! I'm Minje KIM :smiley:
 
 I'm really passionated in Visual SLAM(Simultaneous localization and mapping), Visual-Inertial Odometry, Sensor Fusion, Robot Vsion.
