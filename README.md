@@ -9,8 +9,6 @@ For Studying these Topics, now I'm studying Basic Knowledge (Linear Algebra, Pho
   * E-MAIL: <minje617@unist.ac.kr>
 
 
-## :books: Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minje-KIM&layout=compact)](https://github.com/minje-KIM/github-readme-stats)
 
 	
  
